@@ -1,0 +1,14 @@
+.content{
+  color: azure;
+  margin: 1rem;
+  background-color: black;
+  padding: 1rem;
+  border-radius:4px;
+  text-align: center;
+}
+.content p{
+  color: rgb(177, 179, 179);
+}
+.btn{
+
+}
